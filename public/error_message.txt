@@ -1,0 +1,2 @@
+Error Time: 2024-04-19 10:19:29 +0530	 Error: undefined method `no_method_error_generator' for an instance of ErrorDataController
+Error Time: 2024-04-19 10:19:47 +0530	 Error: undefined method `no_method_error_generator' for an instance of ErrorDataController
